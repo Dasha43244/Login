@@ -28,9 +28,14 @@ namespace Login
         {
             String loginUser = textBox1.Text;
             String passUser = textBox2.Text;
-         
 
-          
+            // Проверяем, что строки не пустые
+            if (string.IsNullOrWhiteSpace(loginUser) || string.IsNullOrWhiteSpace(passUser))
+            {
+                MessageBox.Show("Введите логин и пароль", "Ошибка входа");
+                return;
+            }
+
             if (IsValidUser(loginUser, passUser))
             {
                 // Если пользователь успешно авторизован, открывайте новую форму

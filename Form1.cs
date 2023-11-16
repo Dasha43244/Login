@@ -28,6 +28,12 @@ namespace Login
         {
             String loginUser = textBox1.Text;
             String passUser = textBox2.Text;
+            // Проверяем, что строки не пустые
+            if (string.IsNullOrWhiteSpace(loginUser) || string.IsNullOrWhiteSpace(passUser))
+            {
+                MessageBox.Show("Введите имя пользователя и пароль", "Ошибка");
+                return;
+            }
             string filePath = "users.txt";
 
             if (!File.Exists(filePath))
