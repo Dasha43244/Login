@@ -11,3 +11,16 @@ C:\Users\User\source\repos\Login\obj\Debug\Login.exe
 C:\Users\User\source\repos\Login\obj\Debug\Login.pdb
 C:\Users\User\source\repos\Login\obj\Debug\Login.Form2.resources
 C:\Users\User\source\repos\Login\obj\Debug\Login.Form3.resources
+C:\Users\User\Desktop\УчебПрактика\Login-master\bin\Debug\Login.exe.config
+C:\Users\User\Desktop\УчебПрактика\Login-master\bin\Debug\Login.exe
+C:\Users\User\Desktop\УчебПрактика\Login-master\bin\Debug\Login.pdb
+C:\Users\User\Desktop\УчебПрактика\Login-master\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\УчебПрактика\Login-master\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\УчебПрактика\Login-master\obj\Debug\Login.Form1.resources
+C:\Users\User\Desktop\УчебПрактика\Login-master\obj\Debug\Login.Form2.resources
+C:\Users\User\Desktop\УчебПрактика\Login-master\obj\Debug\Login.Form3.resources
+C:\Users\User\Desktop\УчебПрактика\Login-master\obj\Debug\Login.Properties.Resources.resources
+C:\Users\User\Desktop\УчебПрактика\Login-master\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\User\Desktop\УчебПрактика\Login-master\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\УчебПрактика\Login-master\obj\Debug\Login.exe
+C:\Users\User\Desktop\УчебПрактика\Login-master\obj\Debug\Login.pdb

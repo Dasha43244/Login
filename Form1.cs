@@ -81,6 +81,19 @@ namespace Login
             form2.Show();
             this.Hide();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if (textBox2.PasswordChar == (char)0)
+            {
+                textBox2.PasswordChar = '•';
+
+            }
+            else
+            {
+                textBox2.PasswordChar = (char)0;
+            }
+        }
     }
 }
 
