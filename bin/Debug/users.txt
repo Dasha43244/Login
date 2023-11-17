@@ -1,6 +1,4 @@
-Z,w
-ww,w
 Я,пароль
 ,
-senr0w,parol
 Дарья,Тотже
+senr0w,parol

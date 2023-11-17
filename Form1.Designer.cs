@@ -74,7 +74,7 @@
             // textBox2
             // 
             this.textBox2.Location = new System.Drawing.Point(106, 231);
-            this.textBox2.MinimumSize = new System.Drawing.Size(197, 30);
+            this.textBox2.MinimumSize = new System.Drawing.Size(197, 20);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(218, 20);
             this.textBox2.TabIndex = 2;
@@ -91,9 +91,9 @@
             // label3
             // 
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label3.Location = new System.Drawing.Point(43, 231);
+            this.label3.Location = new System.Drawing.Point(36, 231);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(57, 30);
+            this.label3.Size = new System.Drawing.Size(64, 19);
             this.label3.TabIndex = 4;
             this.label3.Text = "пароль";
             // 
@@ -144,7 +144,7 @@
             // 
             this.pictureBox2.BackgroundImage = global::Login.Properties.Resources.l;
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pictureBox2.Location = new System.Drawing.Point(12, 219);
+            this.pictureBox2.Location = new System.Drawing.Point(7, 219);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(30, 32);
             this.pictureBox2.TabIndex = 11;
